@@ -1,17 +1,17 @@
-# Calendar with Animal Pages
+# 猫とカレンダー Pages
 
-Static App Store support pages for Calendar with Animal.
+Static App Store support pages for 猫とカレンダー.
 
 ## Local Files
 
 - `index.html`: landing page for support links
-- `support/index.html`: App Store Support URL candidate
-- `privacy/index.html`: App Store Privacy Policy URL candidate
+- `support/index.html`: App Store Support URL page
+- `privacy/index.html`: App Store Privacy Policy URL page
 - `assets/styles.css`: shared styles
 
-## Expected URLs
+## Published URLs
 
-If published to GitHub Pages as `animal-calendar-pages`:
+Published through GitHub Pages as `ndgtlft/animal-calendar-pages`:
 
 - Support URL: `https://ndgtlft.github.io/animal-calendar-pages/support/`
 - Privacy Policy URL: `https://ndgtlft.github.io/animal-calendar-pages/privacy/`
@@ -19,6 +19,5 @@ If published to GitHub Pages as `animal-calendar-pages`:
 ## Before Publishing
 
 - Confirm the contact email.
-- Confirm the published URLs.
 - Update `docs/app-store/APP_STORE_SUBMISSION_PREP.md`.
 - Update the in-app privacy policy text if the published policy changes materially.
